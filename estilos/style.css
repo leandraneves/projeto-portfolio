@@ -242,6 +242,15 @@ article h2  {
   border-radius: 8px;
 }
 
+#projeto-container .projeto-info a {
+  color: var(--texto);
+  text-decoration: none;
+}
+
+#projeto-container .projeto-info a:hover {
+  color: var(--destaque);
+}
+
 footer {
   background-color: var(--destaque);
   color: var(--texto-inverso);
